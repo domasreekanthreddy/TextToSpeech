@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223503814711",
+    "firebase_url": "https://texttospeech-b0fab.firebaseio.com",
+    "project_id": "texttospeech-b0fab",
+    "storage_bucket": "texttospeech-b0fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223503814711:android:bc5b687380d9ac15",
+        "android_client_info": {
+          "package_name": "com.example.sreekanth.texttospeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223503814711-i7jvjv87rjgmiue478l2i5dk3srbsroq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sreekanth.texttospeech",
+            "certificate_hash": "8b50fc7d560d01a016d22863da09b03b041e145f"
+          }
+        },
+        {
+          "client_id": "223503814711-k68du22rd9ll83tmo0r8rrur551bplt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALAL6UuzbrNqQ5L-fWuVIsc2GACuk5f9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223503814711-k68du22rd9ll83tmo0r8rrur551bplt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
